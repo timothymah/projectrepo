@@ -1,1 +1,1 @@
-This is MAIN branch change
+This is the resolved version combining both changes.
